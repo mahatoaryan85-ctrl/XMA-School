@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center 66dp safe zone (21 to 87) -->
+    <!-- Martial Arts Belt / Ring Badge -->
+    <path
+        android:strokeColor="#E11D48"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,26 C69.46,26 82,38.54 82,54 C82,69.46 69.46,82 54,82 C38.54,82 26,69.46 26,54 C26,38.54 38.54,26 54,26 Z" />
+    <!-- Dynamic high kick martial artist silhouette -->
+    <!-- Head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,34 A 4.5,4.5 0 1,0 48,43 A 4.5,4.5 0 1,0 48,34 Z" />
+    <!-- Torso and arms -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,44 L53,42 L57,51 L51,57 L44,48 Z" />
+    <!-- Lead guard arm -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,43 L62,40 L60,44 L53,46 Z" />
+    <!-- Rear support leg -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,56 L44,68 L48,74 L42,75 L38,67 L43,55 Z" />
+    <!-- High kick leg extending upwards -->
+    <path
+        android:fillColor="#E11D48"
+        android:pathData="M54,50 L68,43 L79,35 L81,39 L70,48 L56,54 Z" />
+    <!-- Belt tied knot -->
+    <path
+        android:fillColor="#E11D48"
+        android:pathData="M48,54 L44,60 L42,59 L46,53 Z" />
+    <path
+        android:fillColor="#E11D48"
+        android:pathData="M50,54 L52,61 L49,62 L48,55 Z" />
+</vector>

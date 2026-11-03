@@ -1,0 +1,6 @@
+{
+  "name": "XMA SCHOOL",
+  "description": "Professional Martial Arts Training Management Platform with Selfie Attendance, Video Training School, and Instructor Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
