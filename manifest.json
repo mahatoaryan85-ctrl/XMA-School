@@ -1,0 +1,21 @@
+{
+  "name": "XMA SCHOOL - Martial Arts & Self Defence",
+  "short_name": "XMA School",
+  "description": "Professional Martial Arts Training Management Platform with Selfie Attendance, Video Training School, and Belt Analytics.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121214",
+  "theme_color": "#E50914",
+  "icons": [
+    {
+      "src": "/app_download_qr.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/app_download_qr.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
